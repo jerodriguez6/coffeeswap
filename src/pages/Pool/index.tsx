@@ -303,7 +303,7 @@ export default function Pool() {
                     <ThemedText.DeprecatedBody color={theme.deprecated_text3} textAlign="center">
                       <InboxIcon strokeWidth={1} />
                       <div>
-                        <Trans>Your active V3 liquidity positions will appear here.</Trans>
+                        <Trans>Your active COFFE liquidity positions will appear here..</Trans>
                       </div>
                     </ThemedText.DeprecatedBody>
                     {!showConnectAWallet && closedPositions.length > 0 && (
